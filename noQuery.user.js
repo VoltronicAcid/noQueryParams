@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Vids Only
+// @name         No Query Params
 // @namespace    https://github.com/VoltronicAcid/
 // @downloadURL  https://github.com/VoltronicAcid/noQuery/raw/main/noQuery.user.js
 // @version      0.1
