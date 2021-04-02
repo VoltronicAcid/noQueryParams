@@ -9,5 +9,6 @@
 // ==/UserScript==
 
 if (document.location.search.length) {
-    document.location.search = '';
+    const [uri, params] = document.location.href.split('?');
+    document.location.replace(uri);
 }
