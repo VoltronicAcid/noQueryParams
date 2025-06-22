@@ -1,10 +1,11 @@
 // ==UserScript==
-// @name         No Query Params
-// @namespace    https://github.com/VoltronicAcid/
-// @downloadURL  https://github.com/VoltronicAcid/noQueryParams/raw/master/noQueryParams.user.js
-// @version      0.1
-// @description  Remove query parameters from the URL of a video's page on SexyPorn
+// @name         SexyPorn - No Query Params
 // @author       VoltronicAcid
+// @description  Remove query parameters from the URL of a video's page on SexyPorn
+// @version      1.0
+// @homepageURL  https://github.com/VoltronicAcid/noQueryParams
+// @supportURL   https://github.com/VoltronicAcid/noQueryParams/issues
+// @downloadURL  https://github.com/VoltronicAcid/noQueryParams/raw/master/noQueryParams.user.js
 // @match        https://sxyprn.com/post/*.html\?*
 // ==/UserScript==
 
